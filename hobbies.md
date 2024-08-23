@@ -4,47 +4,38 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
-
-## Swimming & Surfing
+## Dancing
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/wd1.JPG">
+<img src="/images/wd2.JPG">
+<img src="/images/wd3.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+<br> I'm a passionate dance enthusiast, especially in Chinese classical dance. Dance is integral to my life and my go-to for relaxation. When study fatigue sets in, I dance to refresh both mind and body. This hobby keeps me fit and fuels my passion for learning.
 
-## Workshop
+## Portrait Photography
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/sy1.JPG">
+<img src="/images/sy2.JPG">
+<img src="/images/sy3.JPG">
 </div>
-<br>There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br> I am also a photography enthusiast, particularly passionate about portrait photography. I enjoy the entire process of coordinating outfits, colors, shooting, and editing according to different themes. My love for visual aesthetics is also one of the reasons that inspires my research in multimodal technology.
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+## long-distance running
+<div class="third">
+<img src="/images/lr1.JPG">
+<img src="/images/lr2.JPG">
+<img src="/images/lr3.JPG">
+<br> I am also very fond of long-distance running, particularly because it allows me to strengthen my willpower. Whenever I surpass my own limits, I feel a deep sense of pride.
 
+## Cat Lover
+<div class="third">
+<img src="/images/cat1.JPG">
+<img src="/images/cat2.JPG">
+<img src="/images/cat3.JPG">
+<br> I have a special fondness for cats. Their big, round eyes and faces, combined with their soft, almost pleading voices, make them irresistibly cute. I also greatly admire their independent nature—how they stay true to themselves and are unafraid to reject what they don’t like.
 
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
 
 <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>

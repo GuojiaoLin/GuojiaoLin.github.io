@@ -7,7 +7,7 @@ url: https://guojiaolin.github.io/
 # Owner/author information
 owner:
   name: Guojiao Lin
-  avatar: <img src="portrait.JPG" class="author__avatar">
+  avatar: portrait.JPG
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: guojiaolin37@gmail.com
   cv: file/guojiaolin_cv.pdf
@@ -15,6 +15,7 @@ owner:
   scholar: https://scholar.google.com.hk/citations?user=FYF7TYgAAAAJ&hl=zh-CN&oi=sra
   
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
 links:
   - title: About Me
     url: /

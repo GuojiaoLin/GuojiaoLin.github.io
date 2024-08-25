@@ -36,7 +36,3 @@ title: Hobbies
 <img src="/images/cat3.jpg">
 <br> I have a special fondness for cats. Their big, round eyes and faces, combined with their soft, almost pleading voices, make them irresistibly cute. I also greatly admire their independent nature—how they stay true to themselves and are unafraid to reject what they don’t like.
 
-<!-- <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> -->
-<!-- Calendly inline widget end -->
-

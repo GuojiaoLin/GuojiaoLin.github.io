@@ -9,7 +9,7 @@ title: Hobbies
 <div class="third">
 <img src="/images/wd1.jpg">
 <img src="/images/wd2.jpg">
-<img src="/images/wd3.JPG">
+<img src="/images/wd3.jpg">
 </div>
 <br> I'm a passionate dance enthusiast, especially in Chinese classical dance. Dance is integral to my life and my go-to for relaxation. When study fatigue sets in, I dance to refresh both mind and body. This hobby keeps me fit and fuels my passion for learning.
 

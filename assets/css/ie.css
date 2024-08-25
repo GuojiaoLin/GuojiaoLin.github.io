@@ -263,3 +263,11 @@ html{font-size:112.5%;}
 .related-articles{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;}
 .footer-wrap footer{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;}
 .article-author-top{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;}
+.styled-photo {
+    border-radius: 20px; /* 圆角半径，创建圆角效果 */
+    border: 5px solid #f2f3f3; /* 设置边框颜色和宽度 */
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1); /* 添加轻微阴影，使图片有浮动感 */
+    padding: 5px; /* 图片与边框之间的距离 */
+    width: 200px; /* 图片宽度 */
+    height: auto; /* 保持图片的比例 */
+}

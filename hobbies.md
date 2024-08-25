@@ -27,6 +27,7 @@ title: Hobbies
 <img src="/images/lr1.jpg">
 <img src="/images/lr2.jpg">
 <img src="/images/lr3.jpg">
+</div>
 <br> I am also very fond of long-distance running, particularly because it allows me to strengthen my willpower. Whenever I surpass my own limits, I feel a deep sense of pride.
 
 ## Cat Lover
@@ -34,5 +35,6 @@ title: Hobbies
 <img src="/images/cat1.JPG">
 <img src="/images/cat2.JPG">
 <img src="/images/cat3.jpg">
+</div>
 <br> I have a special fondness for cats. Their big, round eyes and faces, combined with their soft, almost pleading voices, make them irresistibly cute. I also greatly admire their independent nature—how they stay true to themselves and are unafraid to reject what they don’t like.
 

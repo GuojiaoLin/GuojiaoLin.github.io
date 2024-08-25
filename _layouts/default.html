@@ -9,6 +9,9 @@
 
 <head>
 {% include head.html %}
+{% if page.css %}
+<link rel="stylesheet" href="{{ '/mypaper/css/' | append: page.css | relative_url }}">
+{% endif %}
 
 <script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
 
@@ -24,8 +27,6 @@
 </script>
 
 </head>
-
-
 
 <body class="page" itemscope itemtype="http://schema.org/WebPage">
 

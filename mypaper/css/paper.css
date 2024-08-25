@@ -1,0 +1,138 @@
+.paper-page body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    background-color: #fff;
+    margin: 0;
+    padding: 20px;
+}
+
+.paper-page h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.paper-page .author-list {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.paper-page .author-list sup {
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+.paper-page .affiliation {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.paper-page .affiliation img {
+    max-width: 50px;
+    margin: 0 10px;
+    vertical-align: middle;
+}
+
+.paper-page .conference-info {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.paper-page .button-group {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.paper-page .button-group .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.paper-page .button-group .btn:hover {
+    background-color: #555;
+}
+
+.paper-page #abstract {
+    text-align: left;
+    font-size: 1.1em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 1.8;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paper-page section {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.paper-page section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.paper-page section p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    line-height: 1.8;
+}
+
+.paper-page figure {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.paper-page figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+.paper-page figure figcaption {
+    font-size: 0.9em;
+    margin-top: 10px;
+    color: #666;
+}
+
+.paper-page footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #999;
+    margin-top: 50px;
+}
+
+@media screen and (max-width: 768px) {
+    .paper-page h1 {
+        font-size: 2em;
+    }
+
+    .paper-page .author-list {
+        font-size: 1em;
+    }
+
+    .paper-page .button-group .btn {
+        padding: 8px 16px;
+        font-size: 0.9em;
+    }
+
+    .paper-page #abstract, .paper-page section {
+        max-width: 90%;
+    }
+}

@@ -8,7 +8,7 @@ title: Research
 - [GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation]({{ site.url }}mypaper/GUME/gume.html) <br>
   **Guojiao Lin**, Zhen Meng, Dongjie Wang, Qingqing Long, Yuanchun Zhou, Meng Xiao <br>
   **CIKM** 2024 (International Conference on Information and Knowledge Management)
-  [website]({{ site.url }}/mypaper/GUME/gume.html) | [pdf](https://arxiv.org/abs/2407.12338) | [code](https://github.com/NanGongNingYi/GUME)
+  [website]({{site.url}}/mypaper/GUME/gume.html) | [pdf](https://arxiv.org/abs/2407.12338) | [code](https://github.com/NanGongNingYi/GUME)
 
 - Learning the Beneficial, Forgetting the Harmful: High Generalization Reinforcement Learning with in Evolving Representations <br>
   Jiawei Zheng, Yonghong Song, **Guojiao Lin**, Hao Lin, Shuaitao Li, and Jiayi Duan <br>
@@ -20,4 +20,5 @@ title: Research
 
 - A Drug-Drug Interaction Prediction Method and System Based on Multimodal Knowledge Graphs <br>
   Zhen Meng, **Guojiao Lin**, Zhilong Hu, Pengfei Wang <br>
-  **Invention Patent** 2024 (Under Review)
+  **Invention Patent** 2024 (Publication Stage)
+  Patent Number: 2024104763424

@@ -4,7 +4,7 @@ title: "GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Re
 ---
 <div style="text-align: center;margin-top: 40px;">
   <a href="https://guojiaolin.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Guojiao Lin<sup>1</sup></a>, 
-  Zhen Meng<sup>1</sup>, 
+  <a href="https://people.ucas.ac.cn/~0064421" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Zhen Meng<sup>1</sup></a>, 
   <a href="https://wangdongjie100.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Dongjie Wang<sup>2</sup></a>, 
   <a href="https://scholar.google.com.hk/citations?user=283USTgAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Qingqing Long<sup>1</sup></a>, 
   <a href="https://scholar.google.com.hk/citations?user=r7_Yfj8AAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Yuanchun Zhou<sup>1</sup></a>, 

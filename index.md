@@ -2,8 +2,8 @@
 layout: page
 ---
 <div style="margin-bottom: 20px;">
-  <h2 style="text-align: center;">Welcome!</h2>
-  <h3>biography</h3>
+  <h2>Welcome!</h2>
+  <h3>Biography</h3>
   <div style="margin-bottom: 20px;">
     <p>I am Guojiao Lin (林国娇), a third-year graduate student at the Chinese Academy of Sciences. I obtained my Bachelor's degree in Software Engineering at Shandong University of Science and Technology. During my undergraduate studies, I devoted a significant amount of time to learning programming, participating in professional competitions, focusing on academic writing, and deeply reflecting on my true passions. This period laid a solid foundation for my journey into academic research. Additionally, I am an avid enthusiast of Chinese classical dance, portrait photography, and long-distance running.
     </p>
@@ -17,6 +17,7 @@ layout: page
   
   <div style="text-align: center; margin-bottom: 20px;">
     <img src="file/robot_dream.jpg" style="margin-top: 10px; margin-bottom: 10px; max-width: 90%; height: auto;">
-    <div style="margin-top: 4px; font-style: normal;">The image is from the movie <em>Robot Dreams</em>, one of my all-time favorite films. I look forward to the day when robots can achieve what is depicted in the movie.</div>
+    <div style="margin-top: 4px; font-style: normal; font-size: 12px;">The image is from the movie <em>Robot Dreams</em>, one of my all-time favorite films. I look forward to the day when robots can achieve what is depicted in the movie.</div>
   </div>
+
 </div>

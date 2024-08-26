@@ -46,7 +46,7 @@ Although item modality information is rich, user modality representation still h
 </div>
 
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/limitation.png" alt="Limitation" style="margin-top: 30px; margin-bottom: 30px; width: 70%; max-width: 500px; height: auto;">
+<img src="/mypaper/GUME/images/limitation.png" alt="Limitation" style="margin-top: 30px; margin-bottom: 0px; width: 70%; max-width: 500px; height: auto;">
 </div>
 
 <h2 style="text-align: center; margin-top: 50px; margin-bottom: 50px;">Method</h2>
@@ -62,7 +62,7 @@ We first utilize a graph convolutional network to extract explicit interaction f
 </div>
 
 <div style="text-align: center;">
-  <img src="/mypaper/GUME/images/method.png" alt="Method" style="margin-top: 30px; margin-bottom: 30px; max-width: 100%; height: auto;">
+  <img src="/mypaper/GUME/images/method.png" alt="Method" style="margin-top: 30px; margin-bottom: 10px; max-width: 100%; height: auto;">
 </div>
 
 <h3 style="margin-top: 30px; margin-bottom: 30px;">The main contributions</h3>
@@ -81,7 +81,7 @@ Our GUME model achieved excellent performance across multiple metrics, surpassin
 </div>
 
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/performance.png" alt="Performance" style="margin-top: 30px; margin-bottom: 30px; max-width: 100%; height: auto;">
+<img src="/mypaper/GUME/images/performance.png" alt="Performance" style="margin-top: 30px; margin-bottom: 10px; max-width: 100%; height: auto;">
 </div>
 
 <h3 style="margin-top: 30px; margin-bottom: 30px;">Ablation Study</h3>
@@ -90,7 +90,7 @@ In our work, GUME comprises the modules Graph Enhancement, Alignment for Capturi
 </div>
 
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/ablation.png" alt="Ablation Study" style="margin-top: 30px; margin-bottom: 30px; max-width: 70%; height: auto;">
+<img src="/mypaper/GUME/images/ablation.png" alt="Ablation Study" style="margin-top: 30px; margin-bottom: 10px; max-width: 70%; height: auto;">
 </div>
 
 <h3 style="margin-top: 30px; margin-bottom: 30px;">Comparisons on Tail Items Performance</h3>
@@ -101,7 +101,7 @@ To validate whether enhancing the user-item graph based on multimodal similarity
 The results show that graph enhancement can improve the recommendation performance for tail items. Although removing graph enhancement can improve the recommendation performance for head items, the overall performance decreases due to the decline in tail item performance, which is consistent with the findings of GALORE. Additionally, GUME outperforms MENTOR for both head and tail items, indicating that our graph enhancement strategy effectively improves recommendation performance for long-tail distribution data.
 </div>
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/long_tail.png" alt="Comparisons" style="margin-top: 30px; margin-bottom: 30px; max-width: 80%; height: auto;">
+<img src="/mypaper/GUME/images/long_tail.png" alt="Comparisons" style="margin-top: 30px; margin-bottom: 10px; max-width: 80%; height: auto;">
 </div>
 
 <h3 style="margin-top: 30px; margin-bottom: 30px;">Visualization Analysis</h3>
@@ -112,7 +112,7 @@ To further validate the effectiveness of the user modality enhancement component
 The results, illustrated in figure 3, show that the user modality distribution of GUME is more uniform, while the distribution of w/o UM is more dispersed. Previous research has demonstrated that the uniformity of representation significantly influences recommendation performance. This explains why GUME is effective in enhancing user modality representation.
 </div>
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/distribution.png" alt="Visualization" style="margin-top: 30px; margin-bottom: 30px; max-width: 80%; height: auto;">
+<img src="/mypaper/GUME/images/distribution.png" alt="Visualization" style="margin-top: 30px; margin-bottom: 10px; max-width: 70%; height: auto;">
 </div>
 
 <h2 style="text-align: center; margin-top: 50px; margin-bottom: 50px;">BibTeX</h2>

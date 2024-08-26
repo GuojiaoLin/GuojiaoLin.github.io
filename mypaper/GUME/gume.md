@@ -1,21 +1,17 @@
 ---
 layout: default
 title: "GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation"
-css: "paper.css"
+# css: "paper.css"
 ---
-<div class="paper-page">
-
-# GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation
-
+# GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation 
+<br>
 **Guojiao Lin<sup>1</sup>, Zhen Meng<sup>1</sup>, Dongjie Wang<sup>2</sup>, Qingqing Long<sup>1</sup>, Yuanchun Zhou<sup>1</sup>, Meng Xiao<sup>1</sup>**
-
-1. Computer Network Information Center, Chinese Academy of Sciences  
-2. The University of Kansas  
-
+<br>
+1. Computer Network Information Center, Chinese Academy of Sciences  <br>
+2. The University of Kansas  <br>
 ![CNIC Logo](/mypaper/GUME/images/cnic.jpg) ![KANSAS Logo](/mypaper/GUME/images/KU.png)
-
+<br>
 **CIKM 2024**
-
 ---
 
 ## Abstract
@@ -61,5 +57,3 @@ To further validate the effectiveness of the user modality enhancement component
   journal={arXiv preprint arXiv:2407.12338},
   year={2024}
 }
-
-</div>

@@ -2,13 +2,13 @@
 layout: default
 title: "GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation"
 ---
-<div style="text-align: center;">
-  <a href="https://guojiaolin.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='#blue'" onmouseout="this.style.color='inherit'">Guojiao Lin<sup>1</sup></a>, 
+<div style="text-align: center;margin-top: 40px;">
+  <a href="https://guojiaolin.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Guojiao Lin<sup>1</sup></a>, 
   Zhen Meng<sup>1</sup>, 
-  <a href="https://wangdongjie100.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='#blue'" onmouseout="this.style.color='inherit'">Dongjie Wang<sup>2</sup></a>, 
-  <a href="https://scholar.google.com.hk/citations?user=283USTgAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='#blue'" onmouseout="this.style.color='inherit'">Qingqing Long<sup>1</sup></a>, 
-  <a href="https://scholar.google.com.hk/citations?user=r7_Yfj8AAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='#blue'" onmouseout="this.style.color='inherit'">Yuanchun Zhou<sup>1</sup></a>, 
-  <a href="https://coco11563.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='#blue'" onmouseout="this.style.color='inherit'">Meng Xiao<sup>1</sup></a>
+  <a href="https://wangdongjie100.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Dongjie Wang<sup>2</sup></a>, 
+  <a href="https://scholar.google.com.hk/citations?user=283USTgAAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Qingqing Long<sup>1</sup></a>, 
+  <a href="https://scholar.google.com.hk/citations?user=r7_Yfj8AAAAJ&hl=zh-CN&oi=sra" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Yuanchun Zhou<sup>1</sup></a>, 
+  <a href="https://coco11563.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Meng Xiao<sup>1</sup></a>
 </div>
 
 <table style="margin-top: 40px;">
@@ -46,27 +46,27 @@ Although item modality information is rich, user modality representation still h
 </div>
 
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/limitation.png" alt="Limitation" style="width: 70%; max-width: 500px; height: auto;">
+<img src="/mypaper/GUME/images/limitation.png" alt="Limitation" style="margin-top: 30px; margin-bottom: 30px; width: 70%; max-width: 500px; height: auto;">
 </div>
 
 <h2 style="text-align: center; margin-top: 50px; margin-bottom: 50px;">Method</h2>
 
-<h3 style="margin-top: 20px; margin-bottom: 20px;">Enhancing User-Item Graph</h3>
+<h3 style="margin-top: 30px; margin-bottom: 30px;">Enhancing User-Item Graph</h3>
 <div style="overflow-wrap: break-word; word-wrap: break-word; hyphens: auto;" lang="en">
 We introduce a strategy based on multimodal similarity to identify semantic neighbors. Specifically, this is implemented by utilizing the modality item graph. This graph keeps only the top-k neighbors with the highest similarity scores for each item, and we use it to identify items that are similar to the target item across multiple modalities (textual and visual). We then define these items as the semantic neighbors of the target item.
 </div>
 
-<h3 style="margin-top: 20px; margin-bottom: 20px;">The overview of GUME</h3>
+<h3 style="margin-top: 30px; margin-bottom: 30px;">The overview of GUME</h3>
 <div style="overflow-wrap: break-word; word-wrap: break-word; hyphens: auto;" lang="en">
 We first utilize a graph convolutional network to extract explicit interaction features and extended interest features. Then, we separate and aggregate the attributes of the explicit interaction features to achieve denoising. We maximize the mutual information between explicit interaction features and extended interest features. Finally, we align information within internal modalities as well as between modalities and external behaviors.
 </div>
 
 <div style="text-align: center;">
-  <img src="/mypaper/GUME/images/method.png" alt="Method" style="max-width: 100%; height: auto;">
+  <img src="/mypaper/GUME/images/method.png" alt="Method" style="margin-top: 30px; margin-bottom: 30px; max-width: 100%; height: auto;">
 </div>
 
-<h3 style="margin-top: 20px; margin-bottom: 20px;">The main contributions</h3>
-<p style="word-break: break-all; hyphens: auto;">
+<h3 style="margin-top: 30px; margin-bottom: 30px;">The main contributions</h3>
+<div style="overflow-wrap: break-word; word-wrap: break-word; hyphens: auto;" lang="en">
   <strong>•</strong> We propose a strategy to enhance user-item graphs based on multimodal similarity, improving the connectivity of tail items.<br>
   <strong>•</strong> We develop a user modality enhancement strategy that improves the generalization ability of user modality representations, enabling them to effectively adapt to new products or changes in user behavior, even without direct interaction data.<br>
   <strong>•</strong> We design an alignment strategy from internal and external perspectives to capture commonalities within modalities as well as between modalities and external behaviors, thereby achieving a denoising effect.<br>
@@ -75,25 +75,25 @@ We first utilize a graph convolutional network to extract explicit interaction f
 
 <h2 style="text-align: center; margin-top: 50px; margin-bottom: 50px;">Experiments</h2>
 
-<h3 style="margin-top: 20px; margin-bottom: 20px;">Performance Comparison</h3>
+<h3 style="margin-top: 30px; margin-bottom: 30px;">Performance Comparison</h3>
 <div style="overflow-wrap: break-word; word-wrap: break-word; hyphens: auto;" lang="en">
 Our GUME model achieved excellent performance across multiple metrics, surpassing traditional recommendation models and multimodal recommendation models. Specifically, in terms of Recall@20 for Sports, Clothing, and Electronics, GUME outperforms the best baseline by 2.28%, 3.54%, and 3.82% respectively; while in terms of NDCG@20, it shows improvements of 3.13%, 5.67%, and 2.65%. On the Baby dataset, GUME ties with the best baseline in Recall@20 and improves by 2.22% over the best baseline in NDCG@20. The results validate the effectiveness of our GUME.
 </div>
 
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/performance.png" alt="Performance" style="max-width: 100%; height: auto;">
+<img src="/mypaper/GUME/images/performance.png" alt="Performance" style="margin-top: 30px; margin-bottom: 30px; max-width: 100%; height: auto;">
 </div>
 
-<h3 style="margin-top: 20px; margin-bottom: 20px;">Ablation Study</h3>
+<h3 style="margin-top: 30px; margin-bottom: 30px;">Ablation Study</h3>
 <div style="overflow-wrap: break-word; word-wrap: break-word; hyphens: auto;" lang="en">
 In our work, GUME comprises the modules Graph Enhancement, Alignment for Capturing Commonalities and User Modality Augment. To thoroughly examine the impact of these modules, we conduct comprehensive ablation studies. We use "w/o XX" to denote the absence of a specific module, meaning "without XX".
 </div>
 
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/ablation.png" alt="Ablation Study" style="max-width: 80%; height: auto;">
+<img src="/mypaper/GUME/images/ablation.png" alt="Ablation Study" style="margin-top: 30px; margin-bottom: 30px; max-width: 70%; height: auto;">
 </div>
 
-<h3 style="margin-top: 20px; margin-bottom: 20px;">Comparisons on Tail Items Performance</h3>
+<h3 style="margin-top: 30px; margin-bottom: 30px;">Comparisons on Tail Items Performance</h3>
 <div style="overflow-wrap: break-word; word-wrap: break-word; hyphens: auto;" lang="en">
 To validate whether enhancing the user-item graph based on multimodal similarity can improve the recommendation performance for tail items, we conducted experiments on the Clothing dataset. Specifically, we divided items into five equally sized groups according to the node degree in the user-item bipartite graph, as shown in Figure 2. In recommendation systems, 20% of items account for 80% of interactions. Therefore, we define the top 1/5 of items as head items, while the remaining 4/5 are defined as tail items. The larger the x-axis value, the lower the node degree, and the less popular the item. We compared the performance of GUME, w/o GE, and MENTOR.
 </div>
@@ -101,10 +101,10 @@ To validate whether enhancing the user-item graph based on multimodal similarity
 The results show that graph enhancement can improve the recommendation performance for tail items. Although removing graph enhancement can improve the recommendation performance for head items, the overall performance decreases due to the decline in tail item performance, which is consistent with the findings of GALORE. Additionally, GUME outperforms MENTOR for both head and tail items, indicating that our graph enhancement strategy effectively improves recommendation performance for long-tail distribution data.
 </div>
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/long_tail.png" alt="Comparisons" style="max-width: 100%; height: auto;">
+<img src="/mypaper/GUME/images/long_tail.png" alt="Comparisons" style="margin-top: 30px; margin-bottom: 30px; max-width: 80%; height: auto;">
 </div>
 
-<h3 style="margin-top: 20px; margin-bottom: 20px;">Visualization Analysis</h3>
+<h3 style="margin-top: 30px; margin-bottom: 30px;">Visualization Analysis</h3>
 <div style="overflow-wrap: break-word; word-wrap: break-word; hyphens: auto;" lang="en">
 To further validate the effectiveness of the user modality enhancement component, we visualize the distribution of user modality representations within the Sports dataset. We compare two models, w/o UM and GUME, as mentioned in ablation study. Specifically, we randomly select 1000 user instances from the Sports dataset and employ t-SNE to map the user modality representations to two-dimensional space.
 </div>
@@ -112,7 +112,7 @@ To further validate the effectiveness of the user modality enhancement component
 The results, illustrated in figure 3, show that the user modality distribution of GUME is more uniform, while the distribution of w/o UM is more dispersed. Previous research has demonstrated that the uniformity of representation significantly influences recommendation performance. This explains why GUME is effective in enhancing user modality representation.
 </div>
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/distribution.png" alt="Visualization" style="max-width: 100%; height: auto;">
+<img src="/mypaper/GUME/images/distribution.png" alt="Visualization" style="margin-top: 30px; margin-bottom: 30px; max-width: 80%; height: auto;">
 </div>
 
 <h2 style="text-align: center; margin-top: 50px; margin-bottom: 50px;">BibTeX</h2>

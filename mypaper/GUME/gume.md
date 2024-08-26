@@ -112,7 +112,7 @@ To further validate the effectiveness of the user modality enhancement component
 The results, illustrated in figure 3, show that the user modality distribution of GUME is more uniform, while the distribution of w/o UM is more dispersed. Previous research has demonstrated that the uniformity of representation significantly influences recommendation performance. This explains why GUME is effective in enhancing user modality representation.
 </div>
 <div style="text-align: center;">
-<img src="/mypaper/GUME/images/distribution.png" alt="Visualization" style="margin-top: 30px; margin-bottom: 10px; max-width: 70%; height: auto;">
+<img src="/mypaper/GUME/images/distribution.png" alt="Visualization" style="margin-top: 30px; margin-bottom: 10px; max-width: 76%; height: auto;">
 </div>
 
 <h2 style="text-align: center; margin-top: 50px; margin-bottom: 50px;">BibTeX</h2>

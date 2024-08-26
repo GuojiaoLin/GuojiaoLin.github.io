@@ -14,9 +14,9 @@ layout: page
     </p>
   </div>
   
-  <div style="text-align: left; margin-bottom: 20px;">
-    <img src="file/robot_dream.jpg" style="margin-top: 10px; margin-bottom: 10px; max-width: 90%; height: auto;">
-    <div style="margin-top: 4px; font-style: normal; font-size: 15px;">The image is from the movie <em>Robot Dreams</em>, one of my all-time favorite films. I look forward to the day when robots can achieve what is depicted in the movie.</div>
+  <div style="margin-bottom: 20px;">
+    <img src="file/robot_dream.jpg" style="text-align: center; margin-top: 10px; margin-bottom: 10px; max-width: 90%; height: auto;">
+    <div style="text-align: left; margin-top: 4px; font-style: normal; font-size: 15px;">The image is from the movie <em>Robot Dreams</em>, one of my all-time favorite films. I look forward to the day when robots can achieve what is depicted in the movie.</div>
   </div>
 
 </div>

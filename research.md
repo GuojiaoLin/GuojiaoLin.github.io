@@ -1,6 +1,6 @@
 ---
 layout: page
-# permalink: /research/index.html
+permalink: /research/index.html
 title: Research
 ---
 

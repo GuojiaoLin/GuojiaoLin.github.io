@@ -17,11 +17,11 @@ links:
   - title: About Me
     url: /
   - title: RESEARCH
-    url: /research/
+    url: /
   - title: Awards
-    url: /awards/
+    url: /
   - title: Hobbies
-    url: /hobbies/
+    url: /
   
 timezone: China/Beijing
 future: true

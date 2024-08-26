@@ -9,7 +9,7 @@ title: Hobbies
 <div class="third">
 <img src="/images/wd1.jpg">
 <img src="/images/wd2.jpg">
-<img src="/images/wd3.jpg">
+<img src="/images/wd3.JPG">
 </div>
 <br> I'm a passionate dance enthusiast, especially in Chinese classical dance. Dance is integral to my life and my go-to for relaxation. When study fatigue sets in, I dance to refresh both mind and body. This hobby keeps me fit and fuels my passion for learning.
 
@@ -34,7 +34,7 @@ title: Hobbies
 <div class="third">
 <img src="/images/cat1.JPG">
 <img src="/images/cat2.JPG">
-<img src="/images/cat3.jpg">
+<img src="/images/cat3.JPG">
 </div>
 <br> I have a special fondness for cats. Their big, round eyes and faces, combined with their soft, almost pleading voices, make them irresistibly cute. I also greatly admire their independent nature—how they stay true to themselves and are unafraid to reject what they don’t like.
 

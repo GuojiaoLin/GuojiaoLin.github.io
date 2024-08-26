@@ -36,5 +36,4 @@ title: Hobbies
 <img src="/images/cat2.JPG">
 <img src="/images/cat3.JPG">
 </div>
-<br> I have a special fondness for cats. Their big, round eyes and faces, combined with their soft, almost pleading voices, make them irresistibly cute. I also greatly admire their independent nature—how they stay true to themselves and are unafraid to reject what they don’t like.
-
+<br> I have a special fondness for cats. Their big, round eyes and faces, along with their soft, almost endearing voices, make them irresistibly cute. I also greatly admire their independent nature—how they stay true to themselves and are unafraid to turn down things they don’t like.

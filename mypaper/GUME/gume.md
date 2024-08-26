@@ -12,7 +12,7 @@ css: "paper.css"
 1. Computer Network Information Center, Chinese Academy of Sciences  
 2. The University of Kansas  
 
-![CNIC Logo](/images/cnic-logo.png) ![KANSAS Logo](/images/kansas-logo.png)
+![CNIC Logo](/mypaper/GUME/images/cnic.jpg) ![KANSAS Logo](/mypaper/GUME/images/KU.png)
 
 **CIKM 2024**
 
@@ -20,9 +20,7 @@ css: "paper.css"
 
 ## Abstract
 
-Multimodal recommendation systems (MMRS) have received considerable attention from the research community due to their ability to jointly utilize information from user behavior and product images and text. Previous research has two main issues. First, many long-tail items in recommendation systems have limited interaction data, making it difficult to learn comprehensive and informative representations. However, past MMRS studies have overlooked this issue. Secondly, users’ modality preferences are crucial to their behavior. However, previous research has primarily focused on learning item modality representations, while user modality representations have remained relatively simplistic. To address these challenges, we propose a novel Graphs and User Modalities Enhancement (GUME) for long-tail multimodal recommendation...
-
-<!-- 内容缩写，更多内容省略... -->
+Multimodal recommendation systems (MMRS) have received considerable attention from the research community due to their ability to jointly utilize information from user behavior and product images and text. Previous research has two main issues. First, many longtail items in recommendation systems have limited interaction data, making it difficult to learn comprehensive and informative representations. However, past MMRS studies have overlooked this issue. Secondly, users’ modality preferences are crucial to their behavior. However, previous research has primarily focused on learning item modality representations, while user modality representations have remained relatively simplistic. To address these challenges, we propose a novel Graphs and User Modalities Enhancement (GUME) for long-tail multimodal recommendation. Specifically, we first enhance the user-item graph using multimodal similarity between items. This improves the connectivity of long-tail items and helps them learn high-quality representations through graph propagation. Then, we construct two types of user modalities: explicit interaction features and extended interest features. By using the user modality enhancement strategy to maximize mutual information between these two features, we improve the generalization ability of user modality representations. Additionally, we design an alignment strategy for modality data to remove noise from both internal and external perspectives. Extensive experiments on four publicly available datasets demonstrate the effectiveness of our approach. The code and data are publicly accessible via GitHub.
 
 ## Method
 
@@ -30,7 +28,7 @@ Multimodal recommendation systems (MMRS) have received considerable attention fr
 
 We introduce a strategy based on multimodal similarity to identify semantic neighbors. Specifically, this is implemented by utilizing the modality item graph...
 
-![Example Graph](/images/example-graph.png)
+![Example Graph](/mypaper/GUME/images/method.png)
 
 ### The overview of GUME
 

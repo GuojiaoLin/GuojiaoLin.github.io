@@ -15,13 +15,13 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 links:
   - title: About Me
-    url: /
+    url: 
   - title: RESEARCH
-    url: /
+    url: research/
   - title: Awards
-    url: /
+    url: awards/
   - title: Hobbies
-    url: /
+    url: hobbies/
   
 timezone: China/Beijing
 future: true

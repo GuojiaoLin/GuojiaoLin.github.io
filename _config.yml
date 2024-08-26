@@ -7,7 +7,7 @@ owner:
   avatar: file/portrait.JPG
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: guojiaolin37@gmail.com
-  cv: {{ site.url }}/file/guojiaolin_cv.pdf
+  cv: https://guojiaolin.github.io/file/guojiaolin_cv.pdf
   github: NanGongNingYi
   scholar: https://scholar.google.com.hk/citations?user=FYF7TYgAAAAJ&hl=zh-CN&oi=sra
   

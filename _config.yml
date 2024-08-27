@@ -26,7 +26,8 @@ links:
 timezone: China/Beijing
 future: true
 highlighter: rouge
-permalink:   /:categories/:title
+# permalink:   /:categories/:title
+permalink: /:title
 
 kramdown:
   auto_ids: true

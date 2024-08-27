@@ -5,10 +5,10 @@ title: Research
 ---
 
 ## 2024
-- [GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation]({{ site.url }}mypaper/GUME/gume.html) <br>
+- [GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation]({{ site.url }}/research/gume/) <br>
   **Guojiao Lin**, Zhen Meng, Dongjie Wang, Qingqing Long, Yuanchun Zhou, Meng Xiao <br>
   **CIKM** 2024 (International Conference on Information and Knowledge Management) <br>
-  [website]({{site.url}}/mypaper/GUME/gume.html) | [pdf](https://arxiv.org/abs/2407.12338) | [code](https://github.com/NanGongNingYi/GUME)
+  [website]({{ site.url }}/research/gume/) | [pdf](https://arxiv.org/abs/2407.12338) | [code](https://github.com/NanGongNingYi/GUME)
 
 - Learning the Beneficial, Forgetting the Harmful: High Generalization Reinforcement Learning with in Evolving Representations <br>
   Jiawei Zheng, Yonghong Song, **Guojiao Lin**, Hao Lin, Shuaitao Li, and Jiayi Duan <br>

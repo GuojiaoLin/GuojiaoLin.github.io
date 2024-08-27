@@ -1,7 +1,9 @@
 ---
 layout: default
+permalink: /research/gume/
 title: "GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation"
 ---
+
 <div style="text-align: center;margin-top: 40px;">
   <a href="https://guojiaolin.github.io/" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Guojiao Lin<sup>1</sup></a>, 
   <a href="https://people.ucas.ac.cn/~0064421" style="text-decoration: none; color: inherit;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='inherit'">Zhen Meng<sup>1</sup></a>, 

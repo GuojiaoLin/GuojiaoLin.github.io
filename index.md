@@ -19,5 +19,4 @@ layout: page
     <div style="margin-top: 4px; font-style: normal; font-size: 15px;">The image is from the movie <em>Robot Dreams</em>, one of my all-time favorite films. I look forward to the day when robots can achieve what is depicted in the movie.</div>
   </div>
 
-<!-- over -->
 </div>

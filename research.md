@@ -21,3 +21,4 @@ title: Research
 - A Drug-Drug Interaction Prediction Method and System Based on Multimodal Knowledge Graphs <br>
   Zhen Meng, **Guojiao Lin**, Zhilong Hu, Pengfei Wang <br>
   **Invention Patent** 2024104763424 (Publication Stage)
+  

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /research/gume/
+permalink: /research/gume/index.html
 title: "GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation"
 ---
 

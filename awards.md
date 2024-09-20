@@ -18,7 +18,7 @@ title: Awards
 
 ## Honors
 
-- Aug 2019 - Warm Spring Public Welfare Volunteer Service Certificate
+- Aug 2019: Warm Spring Public Welfare Volunteer Service Certificate
 - Nov 2021: Nominee for the Top 10 Outstanding Students at the University
 - Dec 2021: Top 10 Outstanding Students of the Computer Science College
 - Apr 2022: Top 1,000 Outstanding College Students in Qingdao

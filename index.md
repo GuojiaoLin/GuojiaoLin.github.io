@@ -10,7 +10,8 @@ layout: page
 
   <h2>Research Interests</h2>
   <div style="margin-bottom: 20px;">
-    <p>My research interests include <strong>multimodal large language models, embodied artificial intelligence and recommendation systems</strong>. I am particularly focused on the application of multimodal technology, especially in enhancing a robot's perception in complex environments. My lifelong research goal is to develop general-purpose robots that can adapt to various real-world scenarios, effectively addressing challenges, and achieving true embodied artificial intelligence.
+    <p>
+    My research interests encompass <strong>Multimodal Large Language Models<strong> and <strong>Embodied Artificial Intelligence<strong>. I am particularly fascinated by the intersection of multimodal technology and robotics, especially in how these techniques can enhance robots’ perception capabilities in complex environments. The emergence of LLMs has revealed the potential for achieving true Embodied AI, which excites me greatly!
     </p>
   </div>
   

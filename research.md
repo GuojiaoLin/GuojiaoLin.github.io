@@ -14,11 +14,11 @@ title: Research
   Jiawei Zheng, Yonghong Song, **Guojiao Lin**, Hao Lin, Shuaitao Li, and Jiayi Duan <br>
   **NEUROCOMPUTING** 2024 (Under Review)
 
-- PhyloView: interactive and scalable visualization of phylogenetic trees <br>
-  Jiajia Wang, Bo Zhang, Linglu Zheng, Yan Chen, Chunyang Zhang, **Guojiao Lin**, Zhen Meng, Xuezhi Wang, Yuanchun Zhou <br>
-  **Bioinformatics** 2024 (Under Review)
-
 - A Drug-Drug Interaction Prediction Method and System Based on Multimodal Knowledge Graphs <br>
   Zhen Meng, **Guojiao Lin**, Zhilong Hu, Pengfei Wang <br>
   **Invention Patent** 2024104763424 <br>
   Substantive Examination Stage
+
+- PhyloView: interactive and scalable visualization of phylogenetic trees <br>
+  Jiajia Wang, Bo Zhang, Linglu Zheng, Yan Chen, Chunyang Zhang, **Guojiao Lin**, Zhen Meng, Xuezhi Wang, Yuanchun Zhou <br>
+  **National Bioinformatics Center Project** 2024
